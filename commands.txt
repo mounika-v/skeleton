@@ -1,0 +1,25 @@
+triangle [-prq__a__uAcDjevngBPNEIOXzo_YS__iFlsCQVh] input_file
+
+
+
+cd ..
+
+g++ -o trace2 cimgdemo.cpp -lX11 -lpthread 
+./trace2
+cd triangle
+triangle -p contour
+triangle -rpa100 contour.1
+showme contour.2.ele &
+cd ..
+g++ -o makeoff makeoff.cpp
+./makeoff
+
+
+
+g++ -o skeleton skeleton.cpp gl_framework.cpp -lGL -lGLEW -lglfw
+./skeleton
+
+
+
+
+g++ -std=c++11 -I/usr/include/eigen3 -I./libigl/include/ libig.cpp -o libig
