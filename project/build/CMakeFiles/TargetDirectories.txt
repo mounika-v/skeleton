@@ -1,0 +1,11 @@
+/home/mounika/CPP/sem/sem/build/CMakeFiles/edit_cache.dir
+/home/mounika/CPP/sem/sem/build/CMakeFiles/example_bin.dir
+/home/mounika/CPP/sem/sem/build/CMakeFiles/rebuild_cache.dir
+/home/mounika/CPP/sem/sem/build/glad/CMakeFiles/edit_cache.dir
+/home/mounika/CPP/sem/sem/build/glad/CMakeFiles/glad.dir
+/home/mounika/CPP/sem/sem/build/glad/CMakeFiles/rebuild_cache.dir
+/home/mounika/CPP/sem/sem/build/glfw/CMakeFiles/edit_cache.dir
+/home/mounika/CPP/sem/sem/build/glfw/CMakeFiles/rebuild_cache.dir
+/home/mounika/CPP/sem/sem/build/glfw/src/CMakeFiles/edit_cache.dir
+/home/mounika/CPP/sem/sem/build/glfw/src/CMakeFiles/glfw.dir
+/home/mounika/CPP/sem/sem/build/glfw/src/CMakeFiles/rebuild_cache.dir
